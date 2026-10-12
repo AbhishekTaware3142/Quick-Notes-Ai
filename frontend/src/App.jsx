@@ -12,8 +12,7 @@ React is a JavaScript library used for building user interfaces, especially sing
 - Features of React:
   - Component-based architecture
   - Virtual DOM for fast performance
-  - Reusable components
-  - One-way data binding
+  -
   - Easy to learn and maintain
 
 React uses a declarative approach to building UIs, making your code more predictable and easier to debug.`,
